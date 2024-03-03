@@ -1,2 +1,2 @@
 # TelCard Theme
-A hard coded redesigned .tel profile card based on bootstrap 5, created by Velivian Fesothe.
+A bootstrap 5 theme for .tel profile cards, created by Velivian Fesothe.
